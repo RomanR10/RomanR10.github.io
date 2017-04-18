@@ -1,0 +1,6 @@
+Pro 700
+Experienced 500
+Wizard 900
+Junior 300
+Noob 50
+
